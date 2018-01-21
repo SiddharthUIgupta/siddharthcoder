@@ -46,7 +46,7 @@ body
 
 .getIn
 {
-	background: url(../img/getInTouch.png)fixed;
+	background: url(../img/getInTouch.png) fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
