@@ -102,6 +102,9 @@ a:focus
 #services
 {
 	background: url(../img/locateme.png) fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 a:hover
@@ -400,7 +403,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c0392b', end
 .row
 {
 	color: white;
-	text-shadow: 3px 4px black;
+	text-shadow: 2px 2px black;
 }
 .progress-bars h5
 {
@@ -505,7 +508,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c0392b', end
 
 .codes,.projects,.clients,.feedback
 {
-	background-image: url(../img/stats1.png);
+	background-image: url(../img/stats1.png) ;
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size:cover;
