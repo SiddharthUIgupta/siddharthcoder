@@ -67,14 +67,16 @@ $('#owl-demo').owlCarousel({
         
 
         // Initialize Firebase
-        var config = {
-          apiKey: "AIzaSyDd3XJI1yvOo1qLuvuHHhTO2yd8dRqYuMY",
-          authDomain: "website-contact-d85f4.firebaseapp.com",
-          databaseURL: "https://website-contact-d85f4.firebaseio.com",
-          storageBucket: "website-contact-d85f4.appspot.com",
-          messagingSenderId: "677764276370"
-        };
-        firebase.initializeApp(config);
+          var config = {
+     apiKey: "AIzaSyDRmgABP7zup6QC3XJschf1g_HGgdJykMU",
+     authDomain: "siddharthcoder.firebaseapp.com",
+     databaseURL: "https://siddharthcoder.firebaseio.com",
+     projectId: "siddharthcoder",
+     storageBucket: "siddharthcoder.appspot.com",
+     messagingSenderId: "429276049604"
+   };
+   firebase.initializeApp(config);
+
        
          
 
